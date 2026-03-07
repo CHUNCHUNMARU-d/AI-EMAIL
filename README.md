@@ -44,7 +44,7 @@ You should see something like `v20.11.0`. If you see a version number, you're re
 
 **Step 1 — Unzip the project**
 
-Unzip the `dragon-ai.zip` file. You will get a folder called `dragon-ai`.
+Unzip the `email-ai.zip` file. You will get a folder called `dragon-ai`.
 
 **Step 2 — Open the terminal in that folder**
 
