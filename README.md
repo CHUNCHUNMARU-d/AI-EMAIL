@@ -1,4 +1,4 @@
-# Dragon AI — Setup Guide
+# Email AI — Setup Guide
 ### AI-powered email & build intelligence for dragoncomputers.eu
 
 ---
